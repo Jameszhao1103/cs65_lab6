@@ -126,7 +126,7 @@ IterativeMax:
     sw $ra 16($sp)
    
     #MAX
-    li $s0 -999
+    li $s0 -9,223,372,036,854,775,808
 
     #loopnumber
     li $s1 0
